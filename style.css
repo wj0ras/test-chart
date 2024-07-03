@@ -2,3 +2,13 @@
     padding: 0px;
     margin: 0px;
 }
+
+body {
+    background-image: url('./img/vetoratualizado.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+}
